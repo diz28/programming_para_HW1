@@ -1,0 +1,22 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "programming paradiam assignment 1",
+  "main": "citiation.js",
+  "scripts": {
+    "test": "node citiation.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diz28/programming_para_HW1.git"
+  },
+  "keywords": [
+    "citiation"
+  ],
+  "author": "Di Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diz28/programming_para_HW1/issues"
+  },
+  "homepage": "https://github.com/diz28/programming_para_HW1#readme"
+}
