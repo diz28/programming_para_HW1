@@ -1,3 +1,4 @@
+//I added a movie citation and a way to remove citation added before.
 class Publication {
 	title;
 	author;
